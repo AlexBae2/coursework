@@ -1,6 +1,6 @@
 # Документация к проекту
 
-Сайт развернут на хостинге Vercel. [https://kr-alexbae2.vercel.app/Main](https://kr-alexbae2.vercel.app/Main)
+Сайт развернут на хостинге Vercel. [https://coursework-nine.vercel.app/Main](https://coursework-nine.vercel.app/Main)
 
 Исходники файлов также можно просмотреть на [github](https://github.com/AlexBae2/KR)
 
